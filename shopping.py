@@ -46,5 +46,6 @@ def gou_wu():
 
 
 gou_wu()
-
+s = "wqd"
+print(s)
 
