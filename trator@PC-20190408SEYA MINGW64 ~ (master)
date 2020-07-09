@@ -1,0 +1,41 @@
+[33mcommit 6040e4a2f185e4dba38e191bc2d5c3c3e4dc3642[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kq764640324 <764640324@qq.com>
+Date:   Thu Jul 9 14:09:42 2020 +0800
+
+    add .gitignore
+
+[33mcommit 7f8ded2c6a64fb5149189be49d5e11dfe358bb76[m
+Author: kq764640324 <764640324@qq.com>
+Date:   Thu Jul 9 14:06:29 2020 +0800
+
+    add .gitignore
+
+[33mcommit ad120d968cc2498762ceb5d358e93a9fbb6b4d64[m
+Author: kq764640324 <764640324@qq.com>
+Date:   Thu Jul 9 13:10:28 2020 +0800
+
+    rm 小重山.txt
+
+[33mcommit 7beeac477de456370c19c245bedd6795f5837c00[m
+Author: kq764640324 <764640324@qq.com>
+Date:   Thu Jul 9 12:55:58 2020 +0800
+
+    add init files
+
+[33mcommit b120415acc7379733308213cb92abaac6e480039[m
+Author: kq764640324 <764640324@qq.com>
+Date:   Thu Jul 9 12:32:05 2020 +0800
+
+    add mysql
+
+[33mcommit bb2e6288939d6c2471c8af1b50af922ae9f89420[m
+Author: kq764640324 <764640324@qq.com>
+Date:   Thu Jul 9 12:30:20 2020 +0800
+
+    add init files
+
+[33mcommit 3c81ee1233c23a78babf4f2657044835c1bfaaf2[m
+Author: kq764640324 <764640324@qq.com>
+Date:   Thu Jul 9 12:27:55 2020 +0800
+
+    add shopping
